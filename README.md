@@ -2,8 +2,8 @@
 Job seekers improving resumes for ATS systems. AI + job market competition.
 
 # Core Features:
-Resume upload & parsing.
-AI-generated skill gap analysis.
-Matching score against sample job description.
-Career recommendations.
-Interview prep questions.
+<ul><li>Resume upload & parsing.</li>
+<li>AI-generated skill gap analysis.</li>
+<li>Matching score against sample job description.</li>
+<li>Career recommendations.</li>
+<li>Interview prep questions.</li></ul>
